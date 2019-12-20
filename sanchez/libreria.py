@@ -71,6 +71,12 @@ def negocio (cantidad,precio):
     resultado=(cantidad*100*precio)
     return resultado
 
+# funcion 13: rapidez de un corredor
+
+def rapidez (distancia,tiempo):
+    resultado=((distancia/tiempo)*2)
+    return resultado
+
 
 
 
