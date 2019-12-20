@@ -77,3 +77,103 @@ python sanchez/app_19.py 14.8 150.6 14.5
 python sanchez/app_20.py 456411
 python sanchez/app_20.py las tortugas
 python sanchez/app_20.py 97451236
+
+python ramos_tito/app1.py 5 3
+python ramos_tito/app1.py 16 3.14
+python ramos_tito/app1.py 25 3.1416
+
+python ramos_tito/app2.py 20 15
+python ramos_tito/app2.py 64 82
+python ramos_tito/app2.py 48 03
+
+python ramos_tito/app3.py 54
+python ramos_tito/app3.py 64
+python ramos_tito/app3.py 4
+
+python ramos_tito/app4.py 12 15 18 20
+python ramos_tito/app4.py 13 18 05
+python ramos_tito/app4.py 17 05 12
+
+python ramos_tito/app5.py 12 19
+python ramos_tito/app5.py 11 2
+python ramos_tito/app5.py 48 34
+
+python ramos_tito/app6.py 931547554
+python ramos_tito/app6.py 924554123
+python ramos_tito/app6.py 987540404
+
+python ramos_tito/app7.py ana
+python ramos_tito/app7.py ala
+python ramos_tito/app7.py salas
+
+python ramos_tito/app8.py 54454
+python ramos_tito/app8.py 64821
+python ramos_tito/app8.py 48036
+
+python ramos_tito/app9.py 87 47 4
+python ramos_tito/app9.py 80 50 45
+python ramos_tito/app9.py 10 200 40
+
+python ramos_tito/app10.py josep
+python ramos_tito/app10.py maria
+python ramos_tito/app10.py piero
+
+python ramos_tito/app11.py 5000 10
+python ramos_tito/app11.py 10000 20
+python ramos_tito/app11.py 90000 20
+
+python ramos_tito/app12.py 10 20
+python ramos_tito/app12.py 50 10
+python ramos_tito/app12.py 40 30
+
+python ramos_tito/app13.py 50 10
+python ramos_tito/app13.py 35 25
+python ramos_tito/app13.py 47 30
+
+python ramos_tito/app14.py 25 12
+python ramos_tito/app14.py 40 10
+python ramos_tito/app14.py 33 5
+
+python ramos_tito/app15.py 38
+python ramos_tito/app15.py 41
+python ramos_tito/app15.py 45
+
+python ramos_tito/app16.py 10 20
+python ramos_tito/app16.py 10 50
+python ramos_tito/app16.py 10 18
+
+python aramos_tito/pp17.py 5000 10
+python ramos_tito/app17.py 2000 10
+python ramos_tito/app17.py 4000 10
+
+python ramos_tito/app18.py 428 20
+python ramos_tito/app18.py 2406 12
+python ramos_tito/app18.py 1474 4
+
+python ramos_tito/app19.py  012345678901
+python ramos_tito/app19.py  012132444542
+python ramos_tito/app19.py  127803604417
+
+python ramos_tito/app20.py 8 4 2
+python ramos_tito/app20.py 25 30 4
+python ramos_tito/app20.py 15 14 20
+
+python ramos_tito/app21.py 8000 4 2
+python ramos_tito/app21.py 254 30 4
+python ramos_tito/app21.py 140 14 20
+
+python ramos_tito/app22.py 156 8
+python ramos_tito/app22.py 945 43
+python ramos_tito/app22.py 439  14
+
+python ramos_tito/app23.py 8000 4
+python ramos_tito/app23.py 254 30
+python ramos_tito/app23.py 140 14
+
+python ramos_tito/app24.py 14 4
+python ramos_tito/app24.py 23 30
+python ramos_tito/app24.py 19 26
+
+python ramos_tito/app25.py 13 19
+python ramos_tito/app25.py 23 27
+python ramos_tito/app25.py 29 15
