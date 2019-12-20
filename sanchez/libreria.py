@@ -89,6 +89,12 @@ def volumen_cono (radio,haltura):
     resultado=(3.14*(radio**2)*haltura/3)
     return resultado
 
+# funcion 16: cadencia de tiro de un arma Ak-47
+
+def cadencia_tiro (cantidad_balas,calibre_arma):
+    resultado=((cantidad_balas*calibre_arma)/60)
+    return resultado
+
 
 
 
