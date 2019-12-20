@@ -113,6 +113,23 @@ def multiplicar (n1,n2,n3):
     result=(n1*n2*n3)
     return result
 
+# funcion 20: pedir dni
+
+def pedir_entero(msg):
+    entero_invalido=True
+    while(entero_invalido):
+        valor=input(msg)
+        entero_invalido=(valor.isdigit()==False)
+        return int(valor)
+
+def pedir_dni (msg):
+    dni_invalido=True
+    while (dni_invalido):
+        valor=pedir_entero(msg)
+        dni_invalido=(len(str(valor))!=8)
+        return valor
+
+
 
 
 
