@@ -27,3 +27,9 @@ def volumen_cilindro (haltura,radio):
 def volumen_prisma (lado_base,haltura):
     resultado=((lado_base**2)*haltura)
     return resultado
+
+# funcion 6: calculo del peso correcto
+
+def pes_correcto (haltura,masa,edad):
+    resultado=((masa*edad)*2/(haltura))
+    return resultado
