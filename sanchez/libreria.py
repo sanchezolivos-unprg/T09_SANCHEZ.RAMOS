@@ -59,3 +59,9 @@ def haltura (velocidad_inicial,tiempo):
     resultado=((velocidad_inicial* tiempo) + (9.8 / 2) * (tiempo ** 2))
     return resultado
 
+# funcion 11: volumen de una esfera
+
+def vol_esfera (radio):
+    resultado=(4 * (3.14 / 3) * (radio ** 3))
+    return resultado
+
