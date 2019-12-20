@@ -21,3 +21,9 @@ def area_triangulo (base,haltura):
 def volumen_cilindro (haltura,radio):
     resultado=(3.14*(radio**2)*haltura)
     return resultado
+
+# funcion 5: volumen del prisma cuadrangular
+
+def volumen_prisma (lado_base,haltura):
+    resultado=((lado_base**2)*haltura)
+    return resultado
