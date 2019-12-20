@@ -33,3 +33,10 @@ def volumen_prisma (lado_base,haltura):
 def pes_correcto (haltura,masa,edad):
     resultado=((masa*edad)*2/(haltura))
     return resultado
+
+# funcion 7: promedio notas de un estudiante
+
+def promedio (n1,n2,n3):
+    resultado=((n1+n2+n3)/3)
+    return resultado
+
