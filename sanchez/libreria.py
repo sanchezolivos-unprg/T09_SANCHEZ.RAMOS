@@ -40,3 +40,9 @@ def promedio (n1,n2,n3):
     resultado=((n1+n2+n3)/3)
     return resultado
 
+# funcion 8: calculo de la distancia
+
+def distancia (velocidad,tiempo):
+    resultado=(velocidad*tiempo)
+    return resultado
+
