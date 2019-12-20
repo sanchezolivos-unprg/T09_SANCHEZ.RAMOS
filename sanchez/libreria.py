@@ -83,6 +83,12 @@ def fuerza_electrica (carga1,carga2,distancia):
     resultado=(9000000000*carga1*carga2/(distancia**2))
     return resultado
 
+# funcion 15: volumen de un cono recto
+
+def volumen_cono (radio,haltura):
+    resultado=(3.14*(radio**2)*haltura/3)
+    return resultado
+
 
 
 
