@@ -53,3 +53,9 @@ def area_tri_rectangulo (cateto1,cateto2):
     resultado=(math.sqrt(cateto1**2+cateto2**2))
     return resultado
 
+# funcion 10: calculo de la haltura al caer un objeto desde arriba al suelo
+
+def haltura (velocidad_inicial,tiempo):
+    resultado=((velocidad_inicial* tiempo) + (9.8 / 2) * (tiempo ** 2))
+    return resultado
+
