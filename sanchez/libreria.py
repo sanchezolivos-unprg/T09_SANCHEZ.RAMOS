@@ -107,6 +107,12 @@ def operacion (n1,n2,n3,n4):
     res=((n1+n4)*(n3+n2))
     return res
 
+# funcion 19: multiplicacion de 3 numeros
+
+def multiplicar (n1,n2,n3):
+    result=(n1*n2*n3)
+    return result
+
 
 
 
