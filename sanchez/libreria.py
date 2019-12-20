@@ -46,3 +46,10 @@ def distancia (velocidad,tiempo):
     resultado=(velocidad*tiempo)
     return resultado
 
+# funcion 9: area del triangulo rectangulo
+
+def area_tri_rectangulo (cateto1,cateto2):
+    import math
+    resultado=(math.sqrt(cateto1**2+cateto2**2))
+    return resultado
+
