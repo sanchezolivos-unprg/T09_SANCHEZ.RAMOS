@@ -95,6 +95,12 @@ def cadencia_tiro (cantidad_balas,calibre_arma):
     resultado=((cantidad_balas*calibre_arma)/60)
     return resultado
 
+# funcion 17: area del trapecio
+
+def area_trapecio (base_menor,base_mayor,haltura):
+    resultado=((base_menor+base_mayor)*haltura/2)
+    return resultado
+
 
 
 
