@@ -77,6 +77,12 @@ def rapidez (distancia,tiempo):
     resultado=((distancia/tiempo)*2)
     return resultado
 
+# funcion 14: cargas electricas
+
+def fuerza_electrica (carga1,carga2,distancia):
+    resultado=(9000000000*carga1*carga2/(distancia**2))
+    return resultado
+
 
 
 
