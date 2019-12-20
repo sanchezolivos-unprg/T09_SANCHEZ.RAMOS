@@ -65,3 +65,12 @@ def vol_esfera (radio):
     resultado=(4 * (3.14 / 3) * (radio ** 3))
     return resultado
 
+# funcion 12: negocio
+
+def negocio (cantidad,precio):
+    resultado=(cantidad*100*precio)
+    return resultado
+
+
+
+
