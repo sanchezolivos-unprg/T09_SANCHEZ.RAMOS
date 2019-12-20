@@ -101,6 +101,12 @@ def area_trapecio (base_menor,base_mayor,haltura):
     resultado=((base_menor+base_mayor)*haltura/2)
     return resultado
 
+# funcion 18: operacion matematica de cuatro numeros
+
+def operacion (n1,n2,n3,n4):
+    res=((n1+n4)*(n3+n2))
+    return res
+
 
 
 
